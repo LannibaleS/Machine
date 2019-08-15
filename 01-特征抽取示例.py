@@ -21,7 +21,7 @@ print(res.toarray())
 # print(res)
 
 
-print('\n====== 字典特征抽取 ======')
+print('\n====== 字典特征抽取1 ======')
 ''' 字典特征抽取 '''
 from sklearn.feature_extraction import DictVectorizer
 

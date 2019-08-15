@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.decomposition import PCA
 
 
-# 读取四张表的数据
+# 读取四张表的数据1
 prior = pd.read_csv('../data/order_products__prior.csv')
 products = pd.read_csv('../data/products.csv')
 orders = pd.read_csv('../data/orders.csv')
